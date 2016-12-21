@@ -1,9 +1,9 @@
 export default function (){
   return [
-        {title: 'JavaScript the Good Parts'},
-        {title: 'C# In-Depth'},
-        {title: 'TypeScript'},
-        {title: 'Design Patterns'}
+        {title: 'JavaScript the Good Parts', pages: 500},
+        {title: 'C# In-Depth', pages: 100},
+        {title: 'TypeScript', pages: 600},
+        {title: 'Design Patterns', pages: 784}
     ];
 }
 
